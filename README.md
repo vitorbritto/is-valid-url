@@ -11,7 +11,7 @@ Validation for URL input.
 ## Usage
 
 ```javascript
-var urlInput = getElementById(#contact-url);
+var urlInput = getElementById('contact-url');
 isValid.url(urlInput);
 ```
 
